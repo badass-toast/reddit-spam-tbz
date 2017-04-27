@@ -3,8 +3,11 @@
   "version": "0.0.1",
   "description": "Spam a TBZ image every hour to r/tbz",
   "repository": "https://github.com/badass-toast/reddit-spam-tbz.git",
+  "license": "BSD-3-Clause",
   "author": "u/badasss_toast",
   "dependencies": {
+    "request": "^2.81.0",
+    "snoocore": "^3.3.1"
   },
   "main": "index",
   "engines": {
