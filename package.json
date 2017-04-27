@@ -1,0 +1,16 @@
+{
+  "name": "reddit-spammer-tbz",
+  "version": "0.0.1",
+  "description": "Spam a TBZ image every hour to r/tbz",
+  "repository": "https://github.com/badass-toast/reddit-spam-tbz.git",
+  "author": "u/badasss_toast",
+  "dependencies": {
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.4.1"
+  },
+  "scripts": {
+    "start": "index.js"
+  }
+}
